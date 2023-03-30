@@ -1,4 +1,4 @@
-baseURL = "https://app-beta-2.datacareph.com/"
+baseURL = "https://datacareph.com/blog"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugothemev1"

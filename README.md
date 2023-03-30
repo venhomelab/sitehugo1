@@ -1,1 +1,1 @@
-# HUGO Scaffolding
+# Hugo Scaffolding
